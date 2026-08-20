@@ -1,8 +1,6 @@
 # 北海 / Isaac Pu
 
-AI Product & Workflow Builder
-
-I build AI-assisted workflows for B2B and content teams. Models handle analysis and drafts; people retain control over pricing, commitments, exceptions, and external actions.
+AI Product & Agent Builder | Classical artist
 
 ## Selected work
 
