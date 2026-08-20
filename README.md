@@ -10,7 +10,7 @@ AI Product & Agent Builder | Classical artist
 
 ## Focus
 
-B2B SaaS · AI workflow design · Human-in-the-loop · Evaluation · IoT
+AI Product · AI Agents · B2B Workflows
 
 ## Contact
 
